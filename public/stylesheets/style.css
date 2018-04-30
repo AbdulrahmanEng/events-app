@@ -1,0 +1,46 @@
+body {
+  padding: 50px;
+  font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+}
+
+.app__header {
+  text-align: center;
+}
+.form{
+  margin: 10px;
+}
+.form__input {
+  display:block;
+  margin:0 auto;
+}
+.clearfix{
+  overflow:auto;
+}
+.results{
+  margin: 10px;
+  padding: 10px;
+}
+.result__details {
+  margin: 10px;
+}
+.details__name {
+    font-size: large;
+    margin: 10px 0;
+}
+.details-availability {
+    background-color: mediumspringgreen;
+    font-size: x-small;
+    padding: 5px;
+    border-radius: 5px;
+    margin: 10px;
+    color: white;
+}
+.details__rating {
+    margin: 10px 0;
+    font-size:small;
+}
+.details__vicinity {
+    font-size: small;
+    color: dimgrey;
+    margin: 10px 0;
+}
